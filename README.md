@@ -8,3 +8,7 @@ AuraDots는 하루의 감정을 간단하게 기록할 수 있는 감정 다이�
 -  감정 일기: 감정을 느낀 이유나 하루의 이야기를 작성
 -  월간 감정 통계: 감정 흐름을 시각화 (예정 기능)
 -  하루 한 번 리마인더 알림 설정
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/c7884be5-e6d6-49c9-acb0-99964f06be44" />
+
+시연 영상 : https://www.youtube.com/watch?v=zla1BPUHJrA <img width="472" alt="image" src="https://github.com/user-attachments/assets/2811c7cf-4b42-40e5-925e-f489609237eb" />
+
